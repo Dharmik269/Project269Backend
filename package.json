@@ -4,12 +4,15 @@
   "description": "Backend Amezone",
   "main": "index.js",
   "scripts": {
-    "test": "javascript backend"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "dharmik hirapara",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
