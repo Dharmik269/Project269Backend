@@ -1,0 +1,15 @@
+{
+  "name": "backendproject269",
+  "version": "1.0.0",
+  "description": "Backend Amezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript backend"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "dharmik hirapara",
+  "license": "ISC"
+}
